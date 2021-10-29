@@ -1,5 +1,6 @@
 {
   "name": "trigger_lambda",
+  "homepage": "https://ngandon.github.io/trigger_aws_test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +12,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://ngandon.github.io/trigger_aws_test",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
